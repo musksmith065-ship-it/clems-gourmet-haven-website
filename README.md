@@ -57,8 +57,7 @@ Released under the [MIT License](LICENSE).
 
 Created by Alfred Vandi.
 
-Feedback and suggestions are welcome through GitHub Issues.
-<br>
+
 
 <p align="center">
   <sub><i>Feedback and suggestions are welcome through GitHub Issues.</i></sub>
