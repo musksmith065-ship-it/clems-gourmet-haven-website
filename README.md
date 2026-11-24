@@ -55,4 +55,4 @@ Released under the [MIT License](LICENSE).
 
 ## Author
 
-Created by **<Alfred Vandi>**. Feedback and suggestions are welcome through GitHub Issues.
+Created by <Alfred Vandi>. Feedback and suggestions are welcome through GitHub Issues.
