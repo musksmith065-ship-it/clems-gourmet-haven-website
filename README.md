@@ -4,7 +4,7 @@ A responsive, single-page restaurant website built with semantic HTML, CSS and v
 
 ## Overview
 
-This project was developed as a front-end web development study in designing a complete, accessible small-business website. It demonstrates client-side view routing, tabbed content, form handling and responsive layout using only core web technologies.
+This project was developed as a front-end web development study in designing a complete, accessible small-business website. It demonstrates client-side view routing, tabbed content, form handling and responsive layout using only corAe web technologies.
 
 ## Features
 
@@ -38,7 +38,7 @@ Clem's Gourmet Haven/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/musksmith065-ship-it>/<clems-gourmet-haven-website>.git
+   git clone https://github.com/<your-username>/<repository-name>.git
    ```
 2. Open the folder and double-click `index.html`, or use the **Live Server** extension in VS Code (right-click `index.html` → *Open with Live Server*).
 
@@ -55,4 +55,4 @@ Released under the [MIT License](LICENSE).
 
 ## Author
 
-Created by <Alfred Vandi>. Feedback and suggestions are welcome through GitHub Issues.
+Created by **<Your Name>**. Feedback and suggestions are welcome through GitHub Issues.
