@@ -38,7 +38,7 @@ Clem's Gourmet Haven/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repository-name>.git
+   git clone https://github.com/<musksmith065-ship-it>/<clems-gourmet-haven-website>.git
    ```
 2. Open the folder and double-click `index.html`, or use the **Live Server** extension in VS Code (right-click `index.html` → *Open with Live Server*).
 
